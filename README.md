@@ -75,5 +75,5 @@ Power BI — Interactive dashboard, DAX measures, customer profile analysis, cam
 Muhamad Sukma Renanda
 
 📧 muhamadsukmarenanda@gmail.com
-🔗 LinkedIn
-🌐 Portfolio
+🔗 [LinkedIn](https://www.linkedin.com/in/muhamad-sukma-renanda/)
+🌐 [Portfolio](https://muhamadsukmarenanda.wixsite.com/portofolio-da)
